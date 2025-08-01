@@ -20,8 +20,11 @@ int main(){
 			}
 			
 		}
-		cout<<arreglo[i]<<endl;
+		
 	}
 	
+	for(int k=0;k<casos;k++){
+		cout<<arreglo[k]<<endl;
+	}
 	return 0;
 }
